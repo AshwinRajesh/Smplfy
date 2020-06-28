@@ -1,7 +1,7 @@
  {
-    "name": "Simplify",
+    "name": "Smplfy",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Simplify text on any website!",
     "content_scripts": [
 	  {
 	    "matches": ["https://*/*", "http://*/*"],
